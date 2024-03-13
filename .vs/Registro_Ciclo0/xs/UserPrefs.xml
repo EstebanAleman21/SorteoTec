@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{5625D03A-DDB1-4989-A91D-76C9B50E8BA0}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Registro__Ciclo0 PreferredExecutionTarget="/Applications/Opera GX.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Registro_Ciclo0/wwwroot/css/site.css">
+    <Files>
+      <File FileName="Registro_Ciclo0/Pages/Juegos.cshtml" />
+      <File FileName="Registro_Ciclo0/Pages/Login.cshtml" Line="23" Column="98" />
+      <File FileName="Registro_Ciclo0/Pages/Shared/_Layout.cshtml" Line="41" Column="30" />
+      <File FileName="Registro_Ciclo0/Pages/Shared/_Layout.cshtml.css" />
+      <File FileName="Registro_Ciclo0/wwwroot/css/site.css" Line="280" Column="1" />
+      <File FileName="Registro_Ciclo0/wwwroot/css/styles.css" Line="1" Column="1" />
+      <File FileName="Registro_Ciclo0/Pages/clasificacion_ciclo0.cshtml" />
+      <File FileName="Registro_Ciclo0/Pages/Index.cshtml" Line="108" Column="50" />
+      <File FileName="Registro_Ciclo0/Pages/RegistroUsuario.cshtml" Line="11" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Registro_Ciclo0" expanded="True">
+            <Node name="Registro_Ciclo0" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="img" expanded="True" />
+                <Node name="js" expanded="True" />
+                <Node name="lib" expanded="True" />
+                <Node name="Models" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
